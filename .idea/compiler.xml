@@ -9,9 +9,5 @@
         <module name="chapter2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="chapter2" target="11" />
-      <module name="UnderstandJVMAdvancedFeather" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
